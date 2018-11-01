@@ -21,7 +21,7 @@ public class ChatActivity extends AppCompatActivity {
         findViewById(R.id.btnSend).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                sendChat();
+                sendChat();
             }
         });
     }
